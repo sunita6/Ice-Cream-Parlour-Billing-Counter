@@ -1,0 +1,13 @@
+Day,Date,Item,total,discount,discount_total
+Sunday,18/04/2021,"{'Strawberry': [18, 1440], 'ButterScotch': [5, 550]}",1990,199,1791
+,,,,,
+Sunday,18/04/2021,"{'ButterScotch': [2, 220], 'Strawberry': [16, 1280], 'Vanilla': [5, 350]}",1850,185,1665
+,,,,,
+Sunday,18/04/2021,"{'ButterScotch': [20, 2200]}",2200,220,1980
+,,,,,
+Monday,19/04/2021,"{'ButterScotch': [8, 880], 'Strawberry': [6, 480], 'Chocolate': [10, 1000]}",2360,118,2242
+Monday,19/04/2021,"{'Vanilla': [6, 420], 'Chocolate': [5, 500]}",920,46,874
+,,,,,
+Monday,19/04/2021,"{'ButterScotch': [6, 660]}",660,33,627
+,,,,,
+Monday,19/04/2021,"{'Tutti Fruiti': [6, 720], 'Strawberry': [4, 320]}",1040,52,988
